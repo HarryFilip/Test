@@ -2,4 +2,4 @@
 ====
 
 Тестовый репозиторий
-zhivPavel was there )
+zhivPavel was there :)
